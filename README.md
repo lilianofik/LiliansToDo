@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This was my first time using Android Studio and building an app in general. As is common with first time trials, I found it to be too much knowledge at once. I will need time to learn more and practice.
+I will need time to learn more and practice to properly farmiliarize myself with the necessary elements.
 
 ## License
 
